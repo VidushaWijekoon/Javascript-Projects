@@ -1,0 +1,11 @@
+array methods
+
+map() // no return  return only true or false
+foreach() // can return any values
+filter() // filter output values return values
+reduce() // 
+
+// spread operator
+{...obj}
+this operator helps to create new object
+this mainly use for add something new to array or objects
