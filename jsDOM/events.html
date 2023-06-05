@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Events</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body id="body">
+    <nav id="navbar">
+        <h2 id="hdt">Shopping List</h2>
+    </nav>
+    <div class="container">
+        <div class="frm">
+            <h3 class="frmt" id="frmt" style="text-transform: uppercase;">Add Items</h3>
+            <form action="">
+                <input type="text">
+                <select name="" id="">
+                    <option value="red">Red</option>
+                    <option value="green">Green</option>
+                    <option value="blue">Blue</option>
+                    <option value="yellow">Yellow</option>
+                </select>
+                <button type="submit">Submit</button>
+            </form>
+        </div>
+        <div class="list">
+            <h3>Shopping Items</h3>
+            <ul id="li-items">
+                <li class="items">Item 1</li>
+                <li class="items">Item 2</li>
+                <li class="items">Item 3</li>
+                <li class="items">Item 4</li>
+                <li class="items">Item 5</li>
+            </ul>
+            <div class="">
+                <h6>Testing....</h6>
+            </div>
+            <div id="output"></div>
+            <!-- <button onclick="btnClick(this.textContent)">Click Me</button> -->
+            <button id="c-btn">Click Here</button>
+            <button id="i-btn">Change</button>
+            <button id="e-btn" class="sample btn kvc">Sample Button</button>
+
+            <br>
+            <!-- remove event listeners -->
+            <button id="ev-btn">Click Button</button>
+            <button id="rm-btn">Remove Event</button>
+
+            <br>
+            <!-- Event Types -->
+            <button id="t-btn">Events</button><br><br>
+            <div id="box">
+                <h2>How are you!</h2>
+            </div>
+
+            <!-- Bubbling and Capturing -->
+            <div class="myDiv1" id="myDiv1">
+                <h2>Bubbling</h2>
+                <p id="myP1">Click Me</p>
+            </div>
+            <div class="myDiv2" id="myDiv2">
+                <h2>Bubbling</h2>
+                <p id="myP2">Capturing</p>
+            </div>
+        </div>
+    </div>
+
+    <script src="events.js"></script>
+</body>
+
+</html>
