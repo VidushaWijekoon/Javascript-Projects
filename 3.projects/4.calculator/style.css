@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Exo 2", sans-serif;
+}
+
+.value_input button {
+  border-radius: 100%;
+  text-align: center;
+  height: 50px;
+  width: 50px;
+}
