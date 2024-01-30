@@ -23,12 +23,17 @@
       integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
       crossorigin="anonymous"
     />
-
-    <!-- Regular CSS -->
-    <link rel="stylesheet" href="./style.css" />
   </head>
-  <body>
-    <div class="container-fluid"></div>
+  <body style="background-color: #a2bdd1">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col d-flex justify-content-center align-items-center" style="min-height: 80vh">
+          <button class="btn btn-sm btn-outline-success mx-2" onclick="plus()">+</button>
+          <span id="count_number">0</span>
+          <button class="btn btn-sm btn-outline-warning mx-2" onclick="minus()">-</button>
+        </div>
+      </div>
+    </div>
 
     <!-- ============================================================== -->
     <!-- Sripts  -->
