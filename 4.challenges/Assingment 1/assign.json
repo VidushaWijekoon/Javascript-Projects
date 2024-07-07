@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "brand": "Toyota",
+    "logo": "path",
+    "models": [
+      {
+        "id": 1,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 2,
+        "model": "camry",
+        "year": [2021, 2018, 2012],
+        "colors": ["red", "white"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 3,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 4,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 5,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "brand": "Honda",
+    "logo": "path",
+    "models": [
+      {
+        "id": 1,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 2,
+        "model": "camry",
+        "year": [2021, 2018, 2012],
+        "colors": ["red", "white"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 3,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 4,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 5,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "brand": "Audi",
+    "logo": "path",
+    "models": [
+      {
+        "id": 1,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 2,
+        "model": "camry",
+        "year": [2021, 2018, 2012],
+        "colors": ["red", "white"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 3,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 4,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 5,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "brand": "Kia",
+    "logo": "path",
+    "models": [
+      {
+        "id": 1,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 2,
+        "model": "camry",
+        "year": [2021, 2018, 2012],
+        "colors": ["red", "white"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 3,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 4,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 5,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "brand": "BMW",
+    "models": [
+      {
+        "id": 1,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 2,
+        "model": "camry",
+        "year": [2021, 2018, 2012],
+        "colors": ["red", "white"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 3,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 4,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      },
+      {
+        "id": 5,
+        "model": "corrolla",
+        "year": [2005, 2021, 2018, 2012],
+        "colors": ["red", "white", "black", "blue"],
+        "doors": "4",
+        "price": "35000"
+      }
+    ]
+  }
+]
